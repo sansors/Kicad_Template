@@ -1,0 +1,115 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_02x20_Odd_Even P1
+U 1 1 5D5ADC76
+P 4050 3350
+F 0 "P1" H 4100 4467 50  0000 C CNN
+F 1 "Conn_02x20_Odd_Even" H 4100 4376 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x20_Pitch2.54mm" H 4050 3350 50  0001 C CNN
+F 3 "~" H 4050 3350 50  0001 C CNN
+	1    4050 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x20_Odd_Even P2
+U 1 1 5D5AF782
+P 5150 3350
+F 0 "P2" H 5200 4467 50  0000 C CNN
+F 1 "Conn_02x20_Odd_Even" H 5200 4376 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x20_Pitch2.54mm" H 5150 3350 50  0001 C CNN
+F 3 "~" H 5150 3350 50  0001 C CNN
+	1    5150 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x07_Odd_Even P3
+U 1 1 5D5B3E0E
+P 6200 2750
+F 0 "P3" H 6250 3267 50  0000 C CNN
+F 1 "Conn_02x07_Odd_Even" H 6250 3176 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x07_Pitch2.00mm" H 6200 2750 50  0001 C CNN
+F 3 "~" H 6200 2750 50  0001 C CNN
+	1    6200 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x05_Odd_Even P4
+U 1 1 5D5B5380
+P 6200 3600
+F 0 "P4" H 6250 4017 50  0000 C CNN
+F 1 "Conn_02x05_Odd_Even" H 6250 3926 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x05_Pitch2.54mm" H 6200 3600 50  0001 C CNN
+F 3 "~" H 6200 3600 50  0001 C CNN
+	1    6200 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x06 P9
+U 1 1 5D5B5A83
+P 7500 2550
+F 0 "P9" H 7580 2542 50  0000 L CNN
+F 1 "Conn_01x06" H 7580 2451 50  0000 L CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm" H 7500 2550 50  0001 C CNN
+F 3 "~" H 7500 2550 50  0001 C CNN
+	1    7500 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x08 P7
+U 1 1 5D5B5D9E
+P 7500 3350
+F 0 "P7" H 7580 3342 50  0000 L CNN
+F 1 "Conn_01x08" H 7580 3251 50  0000 L CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm" H 7500 3350 50  0001 C CNN
+F 3 "~" H 7500 3350 50  0001 C CNN
+	1    7500 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x08 P8
+U 1 1 5D5B6072
+P 8450 3350
+F 0 "P8" H 8530 3342 50  0000 L CNN
+F 1 "Conn_01x08" H 8530 3251 50  0000 L CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm" H 8450 3350 50  0001 C CNN
+F 3 "~" H 8450 3350 50  0001 C CNN
+	1    8450 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x10 P6
+U 1 1 5D5B6A5B
+P 8450 2250
+F 0 "P6" H 8530 2242 50  0000 L CNN
+F 1 "Conn_01x10" H 8530 2151 50  0000 L CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x10_Pitch2.54mm" H 8450 2250 50  0001 C CNN
+F 3 "~" H 8450 2250 50  0001 C CNN
+	1    8450 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x03_Odd_Even P5
+U 1 1 5D5B8B90
+P 6200 4250
+F 0 "P5" H 6250 4567 50  0000 C CNN
+F 1 "Conn_02x03_Odd_Even" H 6250 4476 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm" H 6200 4250 50  0001 C CNN
+F 3 "~" H 6200 4250 50  0001 C CNN
+	1    6200 4250
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
